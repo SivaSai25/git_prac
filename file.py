@@ -1,5 +1,10 @@
 a=2
 b=3
+c=0
+d=0
+c=0
+d=3
+t=9
 print(a+b)
 print(a-b)
 print(a**b)
