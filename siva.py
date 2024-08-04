@@ -1,3 +1,6 @@
 print("jenins")
 print("GITHUB")
 print("asdfghjk")
+print("jenins")
+print("GITHUB")
+print("asdfghjk")
